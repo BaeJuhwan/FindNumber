@@ -1,0 +1,2 @@
+C:\Users\a\OneDrive\csstudy\score\score\obj\Debug\score.csproj.SuggestedBindingRedirects.cache
+C:\Users\a\OneDrive\csstudy\score\score\obj\Debug\score.csproj.CoreCompileInputs.cache

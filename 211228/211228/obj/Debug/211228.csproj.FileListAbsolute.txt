@@ -1,0 +1,8 @@
+C:\Users\a\OneDrive\csstudy\211228\211228\bin\Debug\211228.exe.config
+C:\Users\a\OneDrive\csstudy\211228\211228\bin\Debug\211228.exe
+C:\Users\a\OneDrive\csstudy\211228\211228\bin\Debug\211228.pdb
+C:\Users\a\OneDrive\csstudy\211228\211228\obj\Debug\211228.csproj.AssemblyReference.cache
+C:\Users\a\OneDrive\csstudy\211228\211228\obj\Debug\211228.csproj.SuggestedBindingRedirects.cache
+C:\Users\a\OneDrive\csstudy\211228\211228\obj\Debug\211228.csproj.CoreCompileInputs.cache
+C:\Users\a\OneDrive\csstudy\211228\211228\obj\Debug\211228.exe
+C:\Users\a\OneDrive\csstudy\211228\211228\obj\Debug\211228.pdb
